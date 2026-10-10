@@ -1,0 +1,501 @@
+Timestamp,Region,Country,Platform,Use_Case,Plan,Active_Users,Messages_Per_Min,Session_Min,Avg_Revenue_USD,Tokens_Used,Satisfaction,Hour_UTC,Day_Of_Week,Is_Mobile
+2026-06-01 00:47:00,Europe,UK,Web,Coding & Dev,Pro,51025293,1824525,14.8,29532.0,888,4.09,0,Mon,0
+2026-06-01 01:15:00,Europe,Germany,API,Writing & Content,Free,50760421,1766601,14.1,31835.0,7324,4.34,1,Mon,0
+2026-06-01 01:06:00,ME & Africa,South Africa,Web,Coding & Dev,Team/Enterprise,11289828,1764989,20.6,30217.0,6601,4.08,1,Mon,0
+2026-06-01 02:06:00,Europe,France,Web,Coding & Dev,Pro,51317233,1889655,21.7,32199.0,6627,4.28,2,Mon,0
+2026-06-01 02:22:00,North America,Canada,Web,Coding & Dev,Team/Enterprise,71691163,1626391,15.5,31375.0,3077,4.46,2,Mon,0
+2026-06-01 03:05:00,Latin America,Colombia,Web,Coding & Dev,Pro,14561409,1775261,21.2,29407.0,1484,4.21,3,Mon,0
+2026-06-01 03:13:00,Latin America,Argentina,API,Writing & Content,Team/Enterprise,14923065,1385416,16.2,30368.0,4704,4.75,3,Mon,0
+2026-06-01 03:44:00,Europe,France,Desktop,Coding & Dev,Free,51264866,1802772,15.4,27960.0,7316,4.6,3,Mon,0
+2026-06-01 04:33:00,Europe,Spain,Web,Writing & Content,Team/Enterprise,51036150,1280186,22.0,31505.0,5973,4.11,4,Mon,0
+2026-06-01 05:02:00,Europe,France,Mobile,Writing & Content,Free,50869584,1789168,18.6,28193.0,6526,4.76,5,Mon,0
+2026-06-01 05:58:00,Asia Pacific,South Korea,Web,Coding & Dev,Free,40281042,1815105,21.5,28845.0,1349,4.24,5,Mon,0
+2026-06-01 06:01:00,North America,Mexico,Mobile,Other,Pro,69464392,1661825,22.5,27991.0,7332,4.96,6,Mon,0
+2026-06-01 06:45:00,Asia Pacific,Japan,Web,Other,Pro,39124151,1562303,15.1,28348.0,5939,4.02,6,Mon,0
+2026-06-01 06:34:00,Europe,UK,Mobile,Coding & Dev,Free,49070462,1431299,18.6,28671.0,8353,4.21,6,Mon,0
+2026-06-01 07:36:00,Latin America,Colombia,API,Education,Pro,14682111,1267851,17.9,29541.0,8051,4.86,7,Mon,0
+2026-06-01 07:33:00,Asia Pacific,India,Web,Coding & Dev,Team/Enterprise,38677784,1333146,18.0,29531.0,4963,4.46,7,Mon,1
+2026-06-01 08:06:00,North America,Mexico,Web,Other,Team/Enterprise,73059612,1848456,21.6,27998.0,8356,4.48,8,Mon,1
+2026-06-01 08:54:00,Latin America,Brazil,Web,Writing & Content,Team/Enterprise,15215932,1399674,20.3,31383.0,8373,4.15,8,Mon,0
+2026-06-01 09:47:00,ME & Africa,Nigeria,API,Education,Free,11276668,1551995,21.7,27945.0,8720,4.08,9,Mon,0
+2026-06-01 09:55:00,Europe,Germany,Web,Customer Support,Free,50776336,1633567,17.8,30502.0,8965,4.32,9,Mon,0
+2026-06-01 10:15:00,Asia Pacific,Australia,Web,Coding & Dev,Pro,39169212,1850312,22.4,27056.0,2038,4.07,10,Mon,0
+2026-06-01 11:26:00,North America,Canada,Web,Coding & Dev,Free,70796443,1580252,16.7,32903.0,528,4.67,11,Mon,0
+2026-06-01 11:56:00,Latin America,Brazil,Web,Coding & Dev,Free,15007773,1390643,19.4,31306.0,3735,4.69,11,Mon,1
+2026-06-01 12:27:00,Europe,France,Desktop,Coding & Dev,Pro,51487727,1230860,17.0,27785.0,4691,4.16,12,Mon,0
+2026-06-01 12:00:00,Asia Pacific,South Korea,Web,Customer Support,Pro,38443101,1225219,17.3,30315.0,7441,4.13,12,Mon,0
+2026-06-01 13:27:00,Latin America,Brazil,Web,Data Analysis,Pro,14828661,1591918,21.9,32843.0,2932,4.93,13,Mon,0
+2026-06-01 13:56:00,North America,USA,API,Coding & Dev,Team/Enterprise,72263983,1488199,20.0,31410.0,4465,4.27,13,Mon,1
+2026-06-01 14:24:00,North America,USA,API,Coding & Dev,Team/Enterprise,70419003,1774375,21.8,28338.0,3564,4.4,14,Mon,0
+2026-06-01 14:22:00,North America,Canada,API,Writing & Content,Team/Enterprise,71214409,1857465,15.0,32822.0,3325,4.58,14,Mon,0
+2026-06-01 14:57:00,North America,Mexico,Web,Education,Free,73124587,1280952,22.1,28140.0,1127,4.71,14,Mon,0
+2026-06-01 15:43:00,Latin America,Colombia,Mobile,Education,Pro,14838125,1248981,20.0,28981.0,5543,4.66,15,Mon,0
+2026-06-01 15:49:00,Latin America,Colombia,API,Coding & Dev,Pro,15008840,1334288,20.0,29275.0,3251,4.62,15,Mon,0
+2026-06-01 16:19:00,Europe,UK,Web,Writing & Content,Pro,50958665,1525491,18.0,28282.0,8152,4.79,16,Mon,0
+2026-06-01 16:48:00,Asia Pacific,India,API,Data Analysis,Free,40020269,1725796,20.1,28348.0,3662,4.15,16,Mon,0
+2026-06-01 17:54:00,ME & Africa,Nigeria,Mobile,Writing & Content,Team/Enterprise,11270941,1702842,17.5,29398.0,2817,4.66,17,Mon,0
+2026-06-01 18:19:00,Asia Pacific,India,API,Coding & Dev,Team/Enterprise,39312312,1235152,16.2,32090.0,7878,4.13,18,Mon,0
+2026-06-01 18:48:00,Europe,France,Desktop,Data Analysis,Pro,50504474,1781398,18.9,32383.0,8177,4.45,18,Mon,1
+2026-06-01 19:19:00,Asia Pacific,Australia,Mobile,Writing & Content,Free,39128327,1699481,16.1,29015.0,1720,4.14,19,Mon,0
+2026-06-01 19:04:00,Asia Pacific,Japan,API,Coding & Dev,Free,38238610,1783023,17.5,31619.0,720,4.86,19,Mon,1
+2026-06-01 19:52:00,Europe,UK,Web,Writing & Content,Team/Enterprise,51507056,1576754,20.6,31799.0,4013,4.49,19,Mon,0
+2026-06-01 20:21:00,Europe,Spain,API,Education,Pro,51521527,1843679,22.8,30205.0,6855,4.59,20,Mon,0
+2026-06-01 20:38:00,North America,Canada,Mobile,Coding & Dev,Free,70323900,1518289,17.0,32278.0,4958,4.75,20,Mon,1
+2026-06-01 21:30:00,North America,USA,Web,Writing & Content,Team/Enterprise,70420290,1655100,21.0,30911.0,908,4.95,21,Mon,0
+2026-06-01 21:45:00,North America,USA,Web,Data Analysis,Pro,69857513,1689625,20.9,28007.0,2276,4.78,21,Mon,0
+2026-06-01 22:01:00,North America,Mexico,Desktop,Data Analysis,Team/Enterprise,70528358,1859029,15.8,30553.0,4378,4.1,22,Mon,1
+2026-06-01 23:21:00,Asia Pacific,South Korea,Web,Other,Pro,38909981,1499864,17.3,30036.0,5990,4.01,23,Mon,0
+2026-06-01 23:23:00,Europe,Spain,API,Education,Pro,50294564,1713656,22.7,28620.0,8321,4.46,23,Mon,1
+2026-06-02 00:24:00,Europe,France,Web,Customer Support,Free,50340959,1725333,19.1,31009.0,5911,4.03,0,Tue,1
+2026-06-02 00:22:00,North America,USA,Mobile,Writing & Content,Team/Enterprise,71917767,1393388,14.1,32688.0,1802,4.24,0,Tue,0
+2026-06-02 01:14:00,Europe,Germany,API,Data Analysis,Free,49027536,1405964,17.6,28460.0,6446,4.47,1,Tue,0
+2026-06-02 01:22:00,Europe,France,Mobile,Coding & Dev,Free,49340814,1334809,15.1,30215.0,3433,4.19,1,Tue,1
+2026-06-02 02:18:00,North America,Mexico,API,Coding & Dev,Free,69755839,1359238,15.6,27085.0,2473,4.27,2,Tue,0
+2026-06-02 02:40:00,Europe,Germany,Mobile,Writing & Content,Team/Enterprise,50714370,1528577,18.0,28106.0,1241,4.25,2,Tue,1
+2026-06-02 02:55:00,North America,USA,API,Data Analysis,Pro,69575103,1767799,22.5,27511.0,4466,4.12,2,Tue,1
+2026-06-02 03:49:00,Europe,Germany,API,Writing & Content,Free,51581088,1893021,16.7,30726.0,2025,4.95,3,Tue,0
+2026-06-02 03:35:00,North America,Mexico,Web,Coding & Dev,Free,68939608,1515352,19.3,28748.0,4192,4.29,3,Tue,0
+2026-06-02 04:43:00,Asia Pacific,India,Web,Coding & Dev,Pro,39481562,1762733,15.8,27689.0,4083,4.65,4,Tue,0
+2026-06-02 04:33:00,Asia Pacific,India,Web,Coding & Dev,Pro,39433065,1402027,15.1,31132.0,6994,4.94,4,Tue,0
+2026-06-02 05:38:00,Europe,UK,Web,Writing & Content,Free,49733764,1263928,22.7,32016.0,739,5.0,5,Tue,0
+2026-06-02 06:18:00,North America,USA,Mobile,Writing & Content,Pro,72833967,1327042,19.3,30809.0,8456,4.97,6,Tue,0
+2026-06-02 06:42:00,Europe,France,Web,Coding & Dev,Free,50476273,1663808,17.6,31563.0,1001,4.45,6,Tue,0
+2026-06-02 07:25:00,North America,Canada,API,Other,Pro,71241602,1489273,15.7,29171.0,8567,4.63,7,Tue,1
+2026-06-02 07:08:00,North America,Mexico,Desktop,Writing & Content,Pro,69445912,1881202,19.5,28436.0,2994,4.31,7,Tue,0
+2026-06-02 08:23:00,Europe,Germany,Desktop,Writing & Content,Free,51496194,1548862,20.4,30053.0,4879,4.42,8,Tue,0
+2026-06-02 08:35:00,Europe,Spain,Web,Coding & Dev,Pro,51236118,1295555,14.6,31636.0,7198,4.34,8,Tue,1
+2026-06-02 08:48:00,North America,USA,Mobile,Education,Pro,71741923,1805682,18.0,29906.0,5846,4.55,8,Tue,0
+2026-06-02 09:55:00,Europe,France,Web,Data Analysis,Pro,49682854,1742881,14.4,31468.0,6646,4.39,9,Tue,0
+2026-06-02 10:01:00,Asia Pacific,Japan,Desktop,Coding & Dev,Team/Enterprise,38874145,1270255,21.6,27598.0,7886,4.02,10,Tue,0
+2026-06-02 10:04:00,Latin America,Brazil,API,Other,Free,15132971,1654885,21.7,32114.0,6626,4.95,10,Tue,0
+2026-06-02 11:25:00,Latin America,Argentina,API,Data Analysis,Free,15125517,1401165,16.0,27542.0,2012,4.76,11,Tue,1
+2026-06-02 11:44:00,North America,USA,Web,Coding & Dev,Free,69167469,1450924,17.9,28465.0,7151,4.57,11,Tue,1
+2026-06-02 12:09:00,North America,USA,Mobile,Data Analysis,Free,72820137,1300182,18.2,28524.0,4583,4.67,12,Tue,0
+2026-06-02 12:43:00,Europe,France,API,Coding & Dev,Team/Enterprise,51967292,1409407,22.7,31142.0,7884,4.85,12,Tue,0
+2026-06-02 12:36:00,Europe,Spain,Web,Data Analysis,Pro,51982561,1406661,22.8,30949.0,4897,4.01,12,Tue,1
+2026-06-02 13:58:00,Asia Pacific,India,API,Writing & Content,Team/Enterprise,38766230,1759202,19.5,29114.0,3515,4.62,13,Tue,0
+2026-06-02 14:10:00,Asia Pacific,Japan,Web,Data Analysis,Free,39950024,1223355,17.3,27788.0,5235,4.33,14,Tue,0
+2026-06-02 14:56:00,North America,Mexico,Desktop,Writing & Content,Team/Enterprise,72469003,1379879,21.4,29891.0,5235,4.75,14,Tue,0
+2026-06-02 14:39:00,North America,USA,Mobile,Coding & Dev,Pro,71803598,1478188,21.6,30344.0,1879,4.79,14,Tue,0
+2026-06-02 15:23:00,Europe,Spain,API,Data Analysis,Pro,51466730,1858204,15.0,28403.0,810,4.62,15,Tue,0
+2026-06-02 15:44:00,North America,Mexico,API,Data Analysis,Free,71917312,1654467,15.1,27272.0,1009,4.3,15,Tue,0
+2026-06-02 16:08:00,North America,Mexico,Web,Writing & Content,Team/Enterprise,71897729,1578134,19.3,31360.0,7197,4.65,16,Tue,1
+2026-06-02 16:32:00,Europe,France,API,Coding & Dev,Free,49690579,1453880,22.8,29204.0,6276,4.06,16,Tue,0
+2026-06-02 17:05:00,ME & Africa,South Africa,API,Data Analysis,Pro,10897777,1750756,16.2,27756.0,3762,4.07,17,Tue,1
+2026-06-02 18:22:00,North America,USA,Mobile,Coding & Dev,Free,72767704,1201984,21.7,27868.0,2529,4.54,18,Tue,1
+2026-06-02 18:08:00,North America,USA,Web,Education,Free,70308632,1321972,14.5,31450.0,2262,4.75,18,Tue,0
+2026-06-02 19:07:00,Asia Pacific,South Korea,Web,Writing & Content,Team/Enterprise,38194076,1748258,21.8,30129.0,7904,4.64,19,Tue,0
+2026-06-02 19:27:00,ME & Africa,South Africa,API,Writing & Content,Team/Enterprise,10932873,1256553,19.5,27394.0,4905,4.62,19,Tue,0
+2026-06-02 20:08:00,Asia Pacific,Singapore,API,Writing & Content,Pro,38325584,1691245,21.7,30905.0,3922,4.43,20,Tue,1
+2026-06-02 20:25:00,Europe,Spain,API,Coding & Dev,Free,50990177,1462010,15.4,32538.0,1499,4.09,20,Tue,0
+2026-06-02 21:21:00,Europe,France,Web,Coding & Dev,Team/Enterprise,50676863,1669009,17.7,32242.0,7329,4.87,21,Tue,1
+2026-06-02 21:19:00,ME & Africa,Nigeria,Web,Data Analysis,Free,11325514,1356971,15.0,32072.0,6422,4.11,21,Tue,0
+2026-06-02 22:24:00,North America,Canada,API,Education,Pro,71806030,1589717,19.5,30947.0,4781,4.03,22,Tue,0
+2026-06-02 22:22:00,Asia Pacific,Australia,Web,Education,Pro,39036228,1299312,19.7,27184.0,3924,4.38,22,Tue,0
+2026-06-02 23:16:00,North America,Canada,Web,Customer Support,Pro,72694417,1308905,20.8,27299.0,1736,4.27,23,Tue,0
+2026-06-02 23:26:00,Europe,Spain,Web,Education,Free,50277680,1398272,20.1,29920.0,5453,4.05,23,Tue,0
+2026-06-02 23:43:00,Europe,UK,Web,Coding & Dev,Free,49749370,1429685,14.1,31482.0,3278,4.13,23,Tue,0
+2026-06-03 00:53:00,North America,Mexico,API,Writing & Content,Free,72091967,1505353,18.1,27467.0,5529,4.58,0,Wed,0
+2026-06-03 00:48:00,Asia Pacific,Singapore,Web,Coding & Dev,Free,39979975,1632687,21.5,32519.0,1843,4.44,0,Wed,0
+2026-06-03 01:33:00,Europe,Spain,Web,Education,Pro,49646530,1745382,14.7,30799.0,8755,4.19,1,Wed,1
+2026-06-03 02:22:00,North America,Mexico,Web,Coding & Dev,Free,69667930,1307008,20.8,27452.0,8495,4.46,2,Wed,0
+2026-06-03 02:55:00,Europe,France,Desktop,Coding & Dev,Free,50395849,1641969,21.2,30549.0,6166,4.51,2,Wed,0
+2026-06-03 02:53:00,Europe,UK,Mobile,Coding & Dev,Team/Enterprise,51566325,1630505,18.6,29776.0,1072,4.45,2,Wed,1
+2026-06-03 03:38:00,Asia Pacific,Australia,API,Coding & Dev,Free,38335771,1829388,17.1,31286.0,8666,4.65,3,Wed,0
+2026-06-03 04:03:00,Asia Pacific,Singapore,API,Coding & Dev,Free,38758453,1486138,17.0,30587.0,5882,4.07,4,Wed,0
+2026-06-03 04:16:00,Asia Pacific,Australia,Mobile,Data Analysis,Team/Enterprise,40149521,1433353,19.2,27849.0,6131,4.31,4,Wed,0
+2026-06-03 05:08:00,Asia Pacific,Japan,Mobile,Coding & Dev,Pro,39608098,1429933,15.2,31217.0,1931,4.65,5,Wed,0
+2026-06-03 05:19:00,North America,Canada,Web,Coding & Dev,Team/Enterprise,71001464,1358580,15.2,27463.0,2057,4.51,5,Wed,0
+2026-06-03 05:32:00,Asia Pacific,South Korea,API,Education,Pro,39499132,1307976,15.6,31157.0,3112,4.72,5,Wed,0
+2026-06-03 06:15:00,North America,Mexico,Desktop,Data Analysis,Pro,72270011,1363802,16.2,32794.0,8084,4.9,6,Wed,0
+2026-06-03 06:58:00,Asia Pacific,South Korea,API,Coding & Dev,Free,39334700,1876387,21.4,31808.0,2667,4.87,6,Wed,0
+2026-06-03 07:35:00,Europe,France,Desktop,Data Analysis,Free,49352998,1258712,15.4,29696.0,8810,4.15,7,Wed,0
+2026-06-03 08:22:00,ME & Africa,UAE,API,Writing & Content,Free,10919252,1551404,16.1,32967.0,6542,4.22,8,Wed,0
+2026-06-03 08:41:00,North America,Mexico,Web,Coding & Dev,Free,72839610,1530718,21.5,31553.0,8085,4.45,8,Wed,0
+2026-06-03 08:43:00,North America,Canada,Mobile,Writing & Content,Pro,71178406,1277830,16.6,28807.0,1182,4.24,8,Wed,0
+2026-06-03 09:07:00,Europe,UK,Mobile,Writing & Content,Pro,50889744,1602533,20.5,28748.0,425,4.61,9,Wed,0
+2026-06-03 10:03:00,Europe,UK,Desktop,Coding & Dev,Pro,50512198,1891832,19.0,29343.0,8102,4.04,10,Wed,0
+2026-06-03 10:01:00,North America,Mexico,Web,Coding & Dev,Free,71729830,1272564,19.2,31540.0,2585,4.04,10,Wed,0
+2026-06-03 11:23:00,Asia Pacific,Japan,Mobile,Writing & Content,Pro,39580396,1768048,14.6,31657.0,7898,4.04,11,Wed,0
+2026-06-03 11:20:00,Asia Pacific,India,Desktop,Writing & Content,Team/Enterprise,39371388,1377319,20.8,28147.0,6248,4.86,11,Wed,0
+2026-06-03 11:37:00,Asia Pacific,Australia,Mobile,Writing & Content,Free,39128007,1869535,17.1,28121.0,8551,4.37,11,Wed,1
+2026-06-03 12:46:00,North America,USA,API,Writing & Content,Team/Enterprise,69697594,1405636,14.9,28968.0,5243,4.31,12,Wed,0
+2026-06-03 12:52:00,Europe,Spain,API,Data Analysis,Team/Enterprise,50837931,1504458,19.8,31749.0,1339,4.08,12,Wed,0
+2026-06-03 13:43:00,North America,Mexico,Web,Coding & Dev,Team/Enterprise,71819299,1506720,15.1,28416.0,6401,4.36,13,Wed,0
+2026-06-03 14:13:00,North America,USA,API,Writing & Content,Free,69256008,1296386,17.3,28886.0,4966,4.25,14,Wed,0
+2026-06-03 14:33:00,Asia Pacific,Singapore,Web,Data Analysis,Free,38705194,1512391,23.0,28713.0,8447,4.2,14,Wed,0
+2026-06-03 15:27:00,North America,USA,Mobile,Other,Pro,73053494,1890602,20.0,31257.0,5157,4.89,15,Wed,1
+2026-06-03 15:50:00,Asia Pacific,Japan,Web,Coding & Dev,Team/Enterprise,39958165,1365715,18.4,29165.0,6444,4.47,15,Wed,0
+2026-06-03 15:34:00,North America,USA,Web,Other,Pro,71169555,1738415,21.4,27443.0,5594,4.64,15,Wed,0
+2026-06-03 16:08:00,Asia Pacific,Australia,Mobile,Education,Pro,38520641,1876385,17.9,32464.0,1307,4.83,16,Wed,0
+2026-06-03 16:50:00,North America,USA,Desktop,Coding & Dev,Team/Enterprise,71140572,1398833,14.7,28178.0,4896,4.13,16,Wed,0
+2026-06-03 17:37:00,Europe,Germany,Desktop,Coding & Dev,Pro,51158384,1623597,21.6,30382.0,864,4.08,17,Wed,0
+2026-06-03 18:11:00,Asia Pacific,Australia,Web,Data Analysis,Pro,38163259,1822297,18.9,30851.0,5349,4.48,18,Wed,1
+2026-06-03 18:29:00,Asia Pacific,Australia,Web,Coding & Dev,Free,39232892,1342816,19.5,28875.0,5631,4.73,18,Wed,1
+2026-06-03 19:18:00,ME & Africa,UAE,Web,Data Analysis,Free,11197429,1387230,16.2,27581.0,5154,4.95,19,Wed,1
+2026-06-03 19:52:00,Europe,Germany,Web,Data Analysis,Free,51287099,1548785,18.6,29993.0,5455,4.5,19,Wed,0
+2026-06-03 19:45:00,Europe,Spain,Web,Writing & Content,Free,50474532,1817637,19.9,29824.0,533,4.85,19,Wed,0
+2026-06-03 20:23:00,Latin America,Colombia,Mobile,Writing & Content,Free,15023084,1336258,19.0,27441.0,8661,4.45,20,Wed,0
+2026-06-03 21:13:00,Asia Pacific,South Korea,API,Coding & Dev,Free,38971229,1890751,19.0,29194.0,2763,4.2,21,Wed,0
+2026-06-03 21:02:00,Europe,UK,Web,Coding & Dev,Free,50359701,1624382,18.6,28968.0,5618,4.16,21,Wed,0
+2026-06-03 22:07:00,Asia Pacific,Australia,Web,Education,Pro,39761832,1409853,21.3,29210.0,2195,4.98,22,Wed,0
+2026-06-03 22:38:00,Asia Pacific,India,API,Other,Pro,39920692,1604344,20.5,30501.0,3193,4.52,22,Wed,1
+2026-06-03 22:39:00,Asia Pacific,Singapore,Mobile,Coding & Dev,Pro,39742467,1333549,18.0,29513.0,7165,4.69,22,Wed,0
+2026-06-03 23:55:00,Asia Pacific,Singapore,Mobile,Data Analysis,Pro,39314021,1592620,23.0,29870.0,6573,4.31,23,Wed,0
+2026-06-04 00:04:00,Latin America,Argentina,Web,Education,Pro,15088634,1685319,19.5,28154.0,4438,4.28,0,Thu,0
+2026-06-04 00:49:00,ME & Africa,South Africa,Web,Coding & Dev,Pro,11096831,1444162,22.4,31772.0,4880,4.29,0,Thu,0
+2026-06-04 01:22:00,Europe,Spain,Web,Education,Free,49102736,1868719,14.7,32544.0,4601,4.75,1,Thu,0
+2026-06-04 01:59:00,Asia Pacific,Australia,API,Coding & Dev,Free,39837587,1367497,14.5,32431.0,4097,4.64,1,Thu,0
+2026-06-04 01:36:00,Europe,Spain,API,Coding & Dev,Team/Enterprise,51937782,1310558,19.9,32284.0,8193,4.48,1,Thu,0
+2026-06-04 02:18:00,ME & Africa,South Africa,API,Customer Support,Free,11269906,1574606,20.5,32620.0,3268,4.42,2,Thu,1
+2026-06-04 03:23:00,Latin America,Brazil,Web,Writing & Content,Team/Enterprise,15374809,1848227,21.9,27056.0,2158,4.93,3,Thu,0
+2026-06-04 03:56:00,Europe,Spain,Desktop,Education,Free,49559402,1278852,15.5,29753.0,4615,4.72,3,Thu,0
+2026-06-04 04:06:00,North America,Canada,API,Coding & Dev,Pro,71651471,1483843,17.8,28968.0,6967,4.67,4,Thu,0
+2026-06-04 04:59:00,North America,Canada,Web,Coding & Dev,Free,72141916,1867824,16.7,31337.0,587,4.26,4,Thu,0
+2026-06-04 04:37:00,North America,Mexico,API,Coding & Dev,Pro,72863954,1821460,20.9,31142.0,5233,4.37,4,Thu,0
+2026-06-04 05:09:00,ME & Africa,South Africa,API,Other,Free,11355946,1838957,20.8,31812.0,3978,4.76,5,Thu,0
+2026-06-04 06:03:00,Europe,UK,API,Data Analysis,Free,50684392,1243230,18.9,30033.0,2855,4.16,6,Thu,1
+2026-06-04 06:45:00,Europe,Germany,API,Coding & Dev,Free,51425151,1517402,18.6,29741.0,1345,4.56,6,Thu,0
+2026-06-04 06:55:00,North America,USA,Web,Coding & Dev,Free,69239568,1496588,20.3,30247.0,1387,4.93,6,Thu,0
+2026-06-04 07:18:00,Latin America,Brazil,Web,Education,Pro,15389351,1652116,17.8,32957.0,6666,4.45,7,Thu,0
+2026-06-04 08:13:00,North America,USA,Desktop,Education,Free,72596117,1283043,22.9,29358.0,2486,4.73,8,Thu,0
+2026-06-04 08:19:00,North America,USA,API,Data Analysis,Free,70545283,1360764,18.1,27931.0,3488,4.94,8,Thu,1
+2026-06-04 08:56:00,North America,Mexico,API,Customer Support,Team/Enterprise,69954304,1247103,19.3,29679.0,1197,4.24,8,Thu,0
+2026-06-04 09:48:00,Europe,Germany,Mobile,Coding & Dev,Free,49851594,1771050,20.6,28913.0,5653,4.24,9,Thu,1
+2026-06-04 09:44:00,ME & Africa,Nigeria,API,Coding & Dev,Pro,11281710,1714648,15.6,31073.0,8520,4.05,9,Thu,0
+2026-06-04 10:50:00,Europe,Spain,API,Data Analysis,Free,49883782,1328715,18.8,28446.0,4092,4.3,10,Thu,1
+2026-06-04 11:05:00,Asia Pacific,India,API,Writing & Content,Pro,39007092,1378496,17.0,27474.0,7769,4.85,11,Thu,0
+2026-06-04 11:03:00,Asia Pacific,Japan,Web,Data Analysis,Pro,40150324,1331714,20.9,31346.0,3955,4.48,11,Thu,1
+2026-06-04 11:43:00,North America,USA,Desktop,Other,Free,73189975,1535244,16.2,30626.0,3750,4.4,11,Thu,0
+2026-06-04 12:24:00,North America,Canada,API,Data Analysis,Free,70461580,1817968,18.2,31817.0,8092,4.76,12,Thu,0
+2026-06-04 12:56:00,North America,Canada,Web,Education,Pro,68997355,1587318,19.3,31320.0,5236,4.15,12,Thu,0
+2026-06-04 13:31:00,North America,USA,API,Customer Support,Free,72182864,1542034,20.5,31438.0,7950,4.17,13,Thu,1
+2026-06-04 14:04:00,North America,Mexico,API,Customer Support,Pro,71664618,1241112,14.3,32080.0,1194,4.76,14,Thu,0
+2026-06-04 14:04:00,Asia Pacific,Japan,Mobile,Coding & Dev,Free,38971235,1632484,20.0,30699.0,8316,4.66,14,Thu,0
+2026-06-04 14:30:00,Europe,Spain,Web,Data Analysis,Pro,49843794,1551551,20.3,29583.0,3337,4.11,14,Thu,0
+2026-06-04 15:39:00,North America,USA,API,Education,Free,70620407,1461136,17.7,30390.0,4100,4.3,15,Thu,1
+2026-06-04 16:18:00,North America,Mexico,Web,Writing & Content,Free,70957695,1645723,20.3,27496.0,7509,4.64,16,Thu,0
+2026-06-04 16:57:00,ME & Africa,UAE,API,Coding & Dev,Free,11467816,1821288,18.3,27279.0,1618,4.68,16,Thu,0
+2026-06-04 16:41:00,Europe,UK,Desktop,Coding & Dev,Team/Enterprise,50753667,1726578,20.4,29390.0,1660,4.3,16,Thu,0
+2026-06-04 17:43:00,Europe,Spain,Desktop,Coding & Dev,Pro,49399266,1891934,20.5,30005.0,6066,4.05,17,Thu,0
+2026-06-04 18:08:00,Asia Pacific,Australia,Mobile,Customer Support,Free,39914550,1220737,16.5,32956.0,8438,4.23,18,Thu,0
+2026-06-04 18:43:00,North America,USA,API,Writing & Content,Pro,70187579,1372514,14.7,28608.0,6625,4.71,18,Thu,0
+2026-06-04 18:53:00,Asia Pacific,Australia,Web,Coding & Dev,Free,38939937,1388836,15.2,28124.0,7753,4.56,18,Thu,0
+2026-06-04 19:22:00,North America,USA,API,Data Analysis,Pro,72610748,1208638,17.7,31675.0,4377,4.57,19,Thu,0
+2026-06-04 19:47:00,Europe,Germany,Web,Writing & Content,Free,50292108,1494771,18.4,27462.0,4523,4.94,19,Thu,1
+2026-06-04 20:29:00,Europe,Germany,Web,Coding & Dev,Team/Enterprise,49981718,1634134,21.2,28977.0,5884,4.43,20,Thu,1
+2026-06-04 20:38:00,Asia Pacific,South Korea,Web,Data Analysis,Pro,39220542,1324346,17.6,28915.0,8444,4.97,20,Thu,1
+2026-06-04 21:52:00,North America,Canada,Mobile,Writing & Content,Team/Enterprise,69780067,1898085,15.6,31606.0,840,4.95,21,Thu,0
+2026-06-04 22:21:00,Asia Pacific,Singapore,Web,Data Analysis,Pro,39966626,1486399,18.5,30800.0,4365,4.25,22,Thu,0
+2026-06-04 22:04:00,Europe,Spain,API,Data Analysis,Pro,50594112,1846447,21.8,29510.0,1002,4.79,22,Thu,0
+2026-06-04 23:08:00,Latin America,Colombia,API,Coding & Dev,Pro,15101463,1448506,19.8,27266.0,6947,4.97,23,Thu,0
+2026-06-04 23:00:00,Asia Pacific,India,Web,Coding & Dev,Pro,39406644,1681365,16.0,29245.0,7986,4.77,23,Thu,0
+2026-06-04 23:31:00,Europe,France,API,Coding & Dev,Team/Enterprise,49235388,1781922,20.6,29090.0,6020,4.46,23,Thu,0
+2026-06-05 00:06:00,Europe,Spain,API,Data Analysis,Free,49884920,1767130,15.0,32095.0,2191,4.68,0,Fri,0
+2026-06-05 01:03:00,ME & Africa,UAE,Web,Coding & Dev,Pro,11528637,1362298,17.6,28107.0,7480,4.4,1,Fri,1
+2026-06-05 01:37:00,Latin America,Argentina,API,Coding & Dev,Free,14761042,1692631,21.2,30464.0,3463,4.37,1,Fri,0
+2026-06-05 02:25:00,North America,Mexico,API,Other,Free,70585202,1474780,15.0,29112.0,7901,4.62,2,Fri,1
+2026-06-05 02:58:00,Asia Pacific,Australia,API,Coding & Dev,Free,38369605,1413766,15.6,31161.0,8769,4.39,2,Fri,0
+2026-06-05 02:41:00,Europe,Spain,API,Writing & Content,Team/Enterprise,51794747,1321264,15.5,28733.0,3465,4.31,2,Fri,0
+2026-06-05 03:00:00,North America,Canada,API,Coding & Dev,Free,71322561,1657148,17.7,29950.0,7672,4.49,3,Fri,0
+2026-06-05 03:48:00,North America,USA,Web,Coding & Dev,Free,72256963,1595955,21.0,29972.0,8769,4.11,3,Fri,0
+2026-06-05 04:34:00,Asia Pacific,Australia,Mobile,Coding & Dev,Pro,39379217,1892843,14.9,31980.0,4455,4.3,4,Fri,0
+2026-06-05 05:25:00,Europe,France,Mobile,Writing & Content,Team/Enterprise,51324998,1365862,21.3,30528.0,6144,4.86,5,Fri,0
+2026-06-05 05:50:00,Europe,Germany,Web,Coding & Dev,Free,50038060,1396759,18.8,28942.0,5194,4.29,5,Fri,0
+2026-06-05 05:38:00,Asia Pacific,India,Desktop,Education,Team/Enterprise,40430396,1806933,15.1,32196.0,4490,4.15,5,Fri,0
+2026-06-05 06:25:00,North America,Mexico,API,Data Analysis,Free,70694290,1516394,19.7,32281.0,1925,4.4,6,Fri,1
+2026-06-05 06:59:00,Asia Pacific,Australia,Desktop,Coding & Dev,Free,39915917,1712906,20.6,29751.0,6269,4.85,6,Fri,1
+2026-06-05 07:52:00,Europe,Spain,Web,Coding & Dev,Pro,49998495,1604553,19.1,29912.0,6031,4.89,7,Fri,1
+2026-06-05 08:20:00,North America,Mexico,Mobile,Coding & Dev,Team/Enterprise,69601778,1519562,22.9,29567.0,2561,4.88,8,Fri,0
+2026-06-05 08:05:00,Latin America,Argentina,API,Coding & Dev,Free,15322451,1315867,17.6,28833.0,4236,4.43,8,Fri,0
+2026-06-05 09:00:00,North America,USA,Web,Data Analysis,Free,70825787,1205643,17.1,27724.0,7319,4.69,9,Fri,0
+2026-06-05 09:46:00,North America,USA,Mobile,Coding & Dev,Free,70204105,1467904,21.3,32247.0,2740,4.07,9,Fri,0
+2026-06-05 09:58:00,Europe,Germany,Web,Coding & Dev,Pro,51762027,1631253,18.0,28303.0,2046,4.14,9,Fri,0
+2026-06-05 10:27:00,Asia Pacific,Australia,Web,Coding & Dev,Free,38290406,1587377,19.4,30646.0,839,4.85,10,Fri,0
+2026-06-05 11:08:00,North America,Mexico,API,Education,Free,69160860,1828538,22.6,29969.0,2247,4.24,11,Fri,0
+2026-06-05 11:23:00,North America,USA,Desktop,Coding & Dev,Team/Enterprise,71351546,1455788,20.1,31576.0,1595,4.02,11,Fri,0
+2026-06-05 12:29:00,North America,USA,Web,Education,Free,71608174,1550734,17.7,31211.0,1750,4.64,12,Fri,0
+2026-06-05 12:19:00,North America,USA,Web,Customer Support,Team/Enterprise,69590665,1428725,19.3,31579.0,1483,4.31,12,Fri,0
+2026-06-05 12:33:00,ME & Africa,UAE,Web,Customer Support,Free,11295598,1238520,20.0,30948.0,3277,4.12,12,Fri,1
+2026-06-05 13:31:00,Asia Pacific,Japan,Desktop,Writing & Content,Pro,39790167,1316874,15.1,31687.0,4803,4.73,13,Fri,0
+2026-06-05 14:21:00,Latin America,Argentina,API,Writing & Content,Free,15386405,1639272,18.5,30065.0,1308,4.5,14,Fri,0
+2026-06-05 14:49:00,North America,Canada,Web,Data Analysis,Pro,69902025,1556177,14.4,32178.0,4406,4.05,14,Fri,0
+2026-06-05 15:29:00,Latin America,Brazil,Desktop,Coding & Dev,Pro,15152105,1658992,16.0,28490.0,5641,4.27,15,Fri,0
+2026-06-05 15:43:00,North America,Mexico,Desktop,Coding & Dev,Pro,73112556,1867855,14.6,29791.0,5025,4.77,15,Fri,0
+2026-06-05 15:30:00,North America,Canada,Web,Coding & Dev,Pro,72081456,1369808,17.3,32831.0,3601,4.73,15,Fri,0
+2026-06-05 16:00:00,Asia Pacific,Japan,Desktop,Coding & Dev,Pro,39590306,1685422,14.1,29010.0,6564,4.85,16,Fri,1
+2026-06-05 16:45:00,North America,Mexico,API,Other,Team/Enterprise,69535223,1395877,14.4,28389.0,8915,4.41,16,Fri,0
+2026-06-05 17:37:00,Europe,UK,Web,Coding & Dev,Pro,49201991,1597474,17.9,32785.0,4279,4.29,17,Fri,1
+2026-06-05 18:14:00,Latin America,Argentina,Mobile,Coding & Dev,Free,14720889,1860488,15.2,31621.0,2185,4.16,18,Fri,0
+2026-06-05 18:07:00,Europe,Spain,API,Other,Free,49909287,1385505,15.1,27946.0,5384,4.83,18,Fri,0
+2026-06-05 18:39:00,North America,Canada,Web,Coding & Dev,Free,71117386,1674028,16.3,32944.0,909,4.95,18,Fri,1
+2026-06-05 19:06:00,Europe,Germany,API,Education,Free,49011522,1781260,22.8,27784.0,6963,4.37,19,Fri,0
+2026-06-05 20:28:00,Europe,France,Mobile,Coding & Dev,Free,51709321,1510401,15.2,32430.0,5832,4.12,20,Fri,0
+2026-06-05 20:27:00,North America,Mexico,Mobile,Writing & Content,Free,71841146,1320965,15.9,28123.0,4985,4.45,20,Fri,0
+2026-06-05 21:11:00,Europe,Germany,Web,Writing & Content,Pro,49160029,1395843,15.2,28197.0,4482,4.63,21,Fri,1
+2026-06-05 21:50:00,Asia Pacific,Singapore,Mobile,Writing & Content,Pro,38902513,1595955,16.9,28623.0,827,4.32,21,Fri,0
+2026-06-05 21:33:00,Latin America,Argentina,Mobile,Writing & Content,Free,15035388,1362933,15.4,28487.0,4351,4.27,21,Fri,1
+2026-06-05 22:48:00,Latin America,Brazil,Desktop,Coding & Dev,Team/Enterprise,15226937,1448363,21.6,32071.0,3285,4.24,22,Fri,0
+2026-06-05 23:28:00,Asia Pacific,Australia,API,Data Analysis,Free,39429400,1299471,22.5,32020.0,8464,4.54,23,Fri,0
+2026-06-05 23:14:00,North America,USA,API,Coding & Dev,Free,70342581,1629894,21.3,29045.0,3307,4.92,23,Fri,1
+2026-06-05 23:39:00,North America,USA,API,Customer Support,Pro,72537255,1802468,22.6,29242.0,6881,4.59,23,Fri,0
+2026-06-06 00:46:00,North America,USA,Desktop,Education,Team/Enterprise,71696044,1321941,22.7,31161.0,6246,4.22,0,Sat,0
+2026-06-06 01:16:00,North America,Canada,API,Coding & Dev,Pro,72973452,1864088,17.5,32966.0,930,4.18,1,Sat,0
+2026-06-06 01:14:00,Asia Pacific,South Korea,API,Coding & Dev,Free,38872199,1254464,17.1,28917.0,1853,4.82,1,Sat,0
+2026-06-06 01:58:00,Asia Pacific,Australia,Web,Coding & Dev,Pro,38917703,1750914,20.5,27289.0,7579,4.73,1,Sat,0
+2026-06-06 02:56:00,Latin America,Argentina,Web,Writing & Content,Free,14941589,1804835,19.9,31123.0,3064,4.45,2,Sat,1
+2026-06-06 02:50:00,North America,USA,Web,Coding & Dev,Free,72713983,1312633,14.7,32651.0,1925,4.34,2,Sat,0
+2026-06-06 03:01:00,Latin America,Colombia,API,Data Analysis,Pro,14900938,1237489,17.0,32846.0,7105,4.7,3,Sat,1
+2026-06-06 04:12:00,Asia Pacific,Australia,Web,Coding & Dev,Free,39439104,1787898,15.4,29165.0,7405,4.09,4,Sat,1
+2026-06-06 04:12:00,Europe,Spain,Web,Coding & Dev,Pro,51935198,1531499,15.0,31709.0,8115,4.49,4,Sat,0
+2026-06-06 04:54:00,North America,Mexico,Web,Customer Support,Free,70828807,1384307,18.2,28357.0,4800,4.56,4,Sat,0
+2026-06-06 05:05:00,Asia Pacific,India,API,Education,Free,39874263,1359258,14.5,29323.0,8961,4.42,5,Sat,0
+2026-06-06 06:06:00,Latin America,Argentina,Mobile,Writing & Content,Free,15321532,1700013,18.5,32403.0,2815,4.12,6,Sat,1
+2026-06-06 06:13:00,North America,USA,Mobile,Coding & Dev,Free,73141830,1504775,23.0,30763.0,4625,4.32,6,Sat,1
+2026-06-06 06:54:00,Asia Pacific,India,API,Writing & Content,Team/Enterprise,39316389,1842013,14.1,31202.0,8961,4.78,6,Sat,0
+2026-06-06 07:37:00,North America,Mexico,API,Other,Free,69378584,1745681,21.1,32205.0,6033,4.88,7,Sat,0
+2026-06-06 08:08:00,Asia Pacific,South Korea,API,Coding & Dev,Free,39548607,1676569,17.6,29375.0,5831,4.69,8,Sat,0
+2026-06-06 08:57:00,Europe,France,Web,Coding & Dev,Pro,49917289,1789992,21.7,31109.0,4134,4.13,8,Sat,0
+2026-06-06 08:47:00,Europe,France,Mobile,Data Analysis,Free,50313436,1839402,17.7,29907.0,8862,4.87,8,Sat,1
+2026-06-06 09:04:00,Europe,Germany,Web,Writing & Content,Free,51554214,1815532,14.3,28157.0,3688,4.84,9,Sat,0
+2026-06-06 10:15:00,Europe,France,Web,Writing & Content,Free,50177796,1846151,20.1,28452.0,8408,4.59,10,Sat,0
+2026-06-06 10:35:00,Latin America,Colombia,Web,Coding & Dev,Team/Enterprise,15183467,1682195,16.6,29319.0,3069,4.85,10,Sat,1
+2026-06-06 11:11:00,North America,USA,Web,Coding & Dev,Pro,71116625,1805240,22.7,31093.0,8167,4.91,11,Sat,0
+2026-06-06 11:14:00,Europe,UK,Web,Education,Free,51904803,1649918,17.8,29259.0,6113,4.46,11,Sat,0
+2026-06-06 12:22:00,North America,Mexico,API,Data Analysis,Free,73189367,1876539,21.6,30369.0,5031,4.3,12,Sat,0
+2026-06-06 12:40:00,North America,Canada,Web,Coding & Dev,Pro,72987947,1656026,15.7,30104.0,4337,4.9,12,Sat,1
+2026-06-06 12:55:00,Asia Pacific,South Korea,API,Data Analysis,Pro,39636154,1898228,16.3,29511.0,6761,4.74,12,Sat,0
+2026-06-06 13:21:00,ME & Africa,UAE,Mobile,Coding & Dev,Pro,11411792,1834568,20.0,30044.0,3185,4.84,13,Sat,1
+2026-06-06 14:00:00,North America,USA,Web,Coding & Dev,Pro,72180978,1328147,20.1,29014.0,1863,4.22,14,Sat,0
+2026-06-06 14:50:00,Latin America,Argentina,Mobile,Writing & Content,Pro,14927471,1282447,14.5,30806.0,1566,4.47,14,Sat,0
+2026-06-06 14:54:00,North America,Mexico,API,Writing & Content,Team/Enterprise,69571059,1894643,17.1,32923.0,7896,4.14,14,Sat,1
+2026-06-06 15:31:00,North America,USA,Web,Other,Free,69175546,1516437,15.9,31641.0,2995,4.49,15,Sat,1
+2026-06-06 15:57:00,North America,Mexico,API,Writing & Content,Team/Enterprise,70562507,1226407,15.8,29239.0,630,4.89,15,Sat,1
+2026-06-06 16:43:00,Europe,UK,Web,Data Analysis,Free,51632038,1418464,14.9,30020.0,5415,4.17,16,Sat,1
+2026-06-06 16:59:00,North America,Canada,Mobile,Data Analysis,Free,72714166,1896830,17.1,32408.0,6285,4.75,16,Sat,0
+2026-06-06 17:01:00,Latin America,Argentina,Web,Data Analysis,Free,15170107,1612784,15.5,29200.0,1012,4.38,17,Sat,0
+2026-06-06 17:33:00,Asia Pacific,South Korea,API,Coding & Dev,Free,40061965,1233764,15.0,29666.0,2424,4.55,17,Sat,0
+2026-06-06 18:43:00,North America,Mexico,API,Coding & Dev,Pro,71752762,1388984,19.5,27823.0,2118,4.51,18,Sat,0
+2026-06-06 19:01:00,North America,USA,Web,Coding & Dev,Free,71158685,1341171,20.3,28772.0,1045,4.55,19,Sat,0
+2026-06-06 19:21:00,Asia Pacific,Singapore,Web,Coding & Dev,Free,38352097,1601906,18.4,32697.0,8783,4.08,19,Sat,1
+2026-06-06 19:44:00,Latin America,Colombia,API,Other,Free,14556151,1769224,21.9,32113.0,6301,4.8,19,Sat,0
+2026-06-06 20:54:00,Asia Pacific,India,Mobile,Coding & Dev,Team/Enterprise,39654897,1319358,17.2,29626.0,4795,4.88,20,Sat,0
+2026-06-06 20:37:00,Asia Pacific,Japan,Web,Other,Free,39000722,1795470,21.2,30893.0,3132,4.11,20,Sat,0
+2026-06-06 21:06:00,North America,USA,API,Data Analysis,Pro,71820596,1326882,17.4,29152.0,872,4.86,21,Sat,1
+2026-06-06 22:00:00,Asia Pacific,Japan,Desktop,Coding & Dev,Free,38200219,1383129,16.8,31227.0,8998,4.77,22,Sat,0
+2026-06-06 22:33:00,Europe,France,API,Data Analysis,Free,50979894,1374003,17.1,31058.0,6705,4.15,22,Sat,1
+2026-06-06 22:33:00,Latin America,Colombia,Web,Customer Support,Free,14932433,1547084,15.5,31509.0,5653,4.24,22,Sat,0
+2026-06-06 23:35:00,North America,USA,API,Writing & Content,Free,70885595,1760882,18.0,32140.0,7724,4.32,23,Sat,0
+2026-06-06 23:36:00,Asia Pacific,India,Web,Coding & Dev,Pro,40037906,1754248,22.7,30825.0,8728,4.56,23,Sat,0
+2026-06-07 00:23:00,Europe,France,Mobile,Education,Team/Enterprise,49980977,1737191,19.4,31300.0,6352,4.72,0,Sun,0
+2026-06-07 00:30:00,Asia Pacific,Japan,Web,Education,Team/Enterprise,38779871,1565389,20.3,27275.0,3089,4.49,0,Sun,1
+2026-06-07 01:06:00,Asia Pacific,Singapore,Web,Coding & Dev,Free,40099840,1350912,21.4,28143.0,5936,4.11,1,Sun,0
+2026-06-07 02:07:00,Latin America,Colombia,Web,Customer Support,Free,15040170,1552938,22.7,27026.0,1195,4.55,2,Sun,0
+2026-06-07 02:44:00,Europe,Germany,API,Data Analysis,Free,50148906,1620382,21.9,30025.0,6702,4.42,2,Sun,0
+2026-06-07 02:47:00,Asia Pacific,Japan,Web,Writing & Content,Free,39988162,1296726,19.4,32319.0,8793,4.3,2,Sun,1
+2026-06-07 03:47:00,Latin America,Colombia,Desktop,Data Analysis,Free,15071452,1403405,17.1,31034.0,3313,4.5,3,Sun,0
+2026-06-07 04:18:00,North America,USA,Web,Writing & Content,Pro,71772691,1492234,20.7,32048.0,5084,4.88,4,Sun,0
+2026-06-07 04:01:00,North America,USA,Web,Coding & Dev,Free,70066488,1749872,22.9,31100.0,2799,4.84,4,Sun,0
+2026-06-07 04:32:00,North America,Mexico,Web,Writing & Content,Pro,71808372,1593319,16.0,30883.0,6771,4.24,4,Sun,1
+2026-06-07 05:44:00,Asia Pacific,Australia,API,Customer Support,Free,40346081,1883075,16.8,30313.0,612,4.74,5,Sun,0
+2026-06-07 06:23:00,Latin America,Argentina,Web,Data Analysis,Pro,14841284,1611869,20.6,28179.0,3570,4.29,6,Sun,0
+2026-06-07 06:11:00,Asia Pacific,Japan,Mobile,Coding & Dev,Free,38749544,1384967,15.4,32076.0,492,4.33,6,Sun,1
+2026-06-07 07:29:00,North America,USA,Web,Coding & Dev,Team/Enterprise,71552909,1663323,18.4,30436.0,6266,4.07,7,Sun,1
+2026-06-07 07:33:00,Europe,Germany,Web,Writing & Content,Free,50602196,1264361,16.0,28280.0,5837,4.33,7,Sun,0
+2026-06-07 08:03:00,ME & Africa,Nigeria,API,Data Analysis,Pro,11320508,1280305,17.1,28442.0,4394,4.96,8,Sun,0
+2026-06-07 08:24:00,North America,USA,Web,Data Analysis,Free,71131917,1739346,18.6,30052.0,8375,4.04,8,Sun,0
+2026-06-07 08:35:00,North America,Mexico,Desktop,Coding & Dev,Team/Enterprise,71221909,1205131,14.6,31022.0,3892,4.86,8,Sun,0
+2026-06-07 09:53:00,North America,Mexico,Mobile,Other,Pro,71684878,1857825,20.7,27923.0,7923,4.72,9,Sun,0
+2026-06-07 10:20:00,North America,USA,Web,Coding & Dev,Pro,72812282,1485342,18.1,29427.0,5583,4.02,10,Sun,0
+2026-06-07 10:48:00,Europe,UK,Mobile,Coding & Dev,Team/Enterprise,50058916,1551985,16.6,31115.0,1817,4.28,10,Sun,0
+2026-06-07 11:00:00,Europe,UK,Web,Coding & Dev,Pro,51389036,1794627,16.7,30804.0,5283,4.68,11,Sun,0
+2026-06-07 11:00:00,Asia Pacific,Australia,API,Writing & Content,Free,38103751,1617658,18.8,32682.0,5392,4.21,11,Sun,1
+2026-06-07 11:56:00,Asia Pacific,Japan,Desktop,Education,Free,38525423,1631819,16.3,27688.0,1291,4.85,11,Sun,0
+2026-06-07 12:41:00,ME & Africa,South Africa,API,Coding & Dev,Free,10949509,1707912,18.4,28985.0,2500,4.67,12,Sun,0
+2026-06-07 13:27:00,North America,USA,Web,Writing & Content,Free,71739712,1685420,15.4,30401.0,5582,4.96,13,Sun,0
+2026-06-07 13:45:00,North America,USA,Mobile,Writing & Content,Team/Enterprise,69500826,1713080,21.9,29777.0,6277,4.77,13,Sun,0
+2026-06-07 14:08:00,North America,Mexico,Web,Coding & Dev,Pro,72728334,1337502,20.6,30760.0,1635,4.89,14,Sun,1
+2026-06-07 14:49:00,Europe,Spain,API,Customer Support,Pro,50621685,1899109,18.2,31651.0,6393,4.39,14,Sun,0
+2026-06-07 14:38:00,Europe,France,API,Writing & Content,Free,50496565,1663874,21.6,31839.0,3117,4.76,14,Sun,0
+2026-06-07 15:36:00,North America,Mexico,API,Other,Pro,70989665,1451156,16.0,29926.0,1429,4.26,15,Sun,0
+2026-06-07 16:28:00,Asia Pacific,South Korea,Mobile,Writing & Content,Team/Enterprise,40169012,1227933,19.8,27619.0,8942,4.63,16,Sun,0
+2026-06-07 16:34:00,Asia Pacific,South Korea,API,Writing & Content,Free,39476588,1828758,14.7,28510.0,4051,4.52,16,Sun,0
+2026-06-07 17:20:00,Latin America,Argentina,API,Data Analysis,Free,14635937,1315924,14.7,30861.0,3865,4.15,17,Sun,0
+2026-06-07 17:42:00,Europe,UK,Web,Education,Pro,50434006,1535170,15.9,27967.0,7132,4.02,17,Sun,0
+2026-06-07 17:38:00,Europe,Germany,API,Coding & Dev,Pro,49144679,1380781,15.6,32749.0,705,4.88,17,Sun,1
+2026-06-07 18:13:00,Asia Pacific,India,API,Other,Team/Enterprise,38493789,1781254,19.4,31768.0,3379,4.62,18,Sun,0
+2026-06-07 18:51:00,North America,Mexico,Desktop,Data Analysis,Free,70540741,1292549,14.1,30136.0,8663,4.68,18,Sun,1
+2026-06-07 19:30:00,Europe,Germany,Desktop,Data Analysis,Team/Enterprise,50585213,1726668,14.8,30956.0,419,4.9,19,Sun,1
+2026-06-07 19:53:00,Europe,Spain,Mobile,Data Analysis,Free,51818154,1537486,20.9,29103.0,2000,4.43,19,Sun,0
+2026-06-07 20:18:00,Asia Pacific,India,API,Writing & Content,Free,38104787,1720551,14.1,30135.0,8915,4.01,20,Sun,0
+2026-06-07 20:56:00,Asia Pacific,Australia,Web,Coding & Dev,Pro,38689509,1798483,17.8,29194.0,4914,4.99,20,Sun,0
+2026-06-07 21:50:00,North America,Mexico,API,Coding & Dev,Pro,70990759,1891955,19.2,31645.0,6922,4.74,21,Sun,1
+2026-06-07 21:58:00,Asia Pacific,Japan,Mobile,Customer Support,Free,39289659,1750256,21.2,30684.0,1252,4.16,21,Sun,0
+2026-06-07 22:52:00,North America,USA,Web,Customer Support,Free,69201413,1355239,14.7,27227.0,6696,4.93,22,Sun,0
+2026-06-07 23:15:00,Asia Pacific,Australia,Desktop,Coding & Dev,Pro,38504873,1546057,14.1,32103.0,8889,4.29,23,Sun,0
+2026-06-07 23:39:00,Europe,Germany,Web,Coding & Dev,Free,48976170,1310211,23.0,31678.0,6185,4.67,23,Sun,0
+2026-06-08 00:17:00,North America,USA,Mobile,Customer Support,Pro,72024165,1591379,19.2,29085.0,4930,4.23,0,Mon,0
+2026-06-08 00:36:00,Europe,Spain,Web,Coding & Dev,Free,50667615,1552218,17.1,27702.0,8809,4.96,0,Mon,1
+2026-06-08 00:46:00,Asia Pacific,South Korea,API,Other,Pro,39906096,1730231,22.7,29753.0,7948,4.9,0,Mon,1
+2026-06-08 01:04:00,Europe,France,Web,Education,Free,51099442,1760112,17.7,29119.0,559,4.7,1,Mon,0
+2026-06-08 02:13:00,North America,Canada,Mobile,Writing & Content,Pro,69689191,1419710,16.0,30442.0,3394,4.95,2,Mon,0
+2026-06-08 02:47:00,Latin America,Argentina,Web,Data Analysis,Team/Enterprise,14696804,1341936,16.2,30712.0,2955,4.78,2,Mon,0
+2026-06-08 03:01:00,North America,Mexico,API,Education,Pro,69108393,1537604,19.6,29954.0,4901,4.49,3,Mon,0
+2026-06-08 03:25:00,Latin America,Argentina,Web,Data Analysis,Free,15228624,1534824,18.9,30015.0,6850,4.86,3,Mon,1
+2026-06-08 04:14:00,Europe,UK,API,Coding & Dev,Free,51017427,1465599,14.9,29170.0,4654,4.19,4,Mon,0
+2026-06-08 04:21:00,North America,Mexico,Web,Writing & Content,Free,71915758,1460616,21.7,28678.0,3347,4.57,4,Mon,0
+2026-06-08 05:16:00,Asia Pacific,India,Web,Coding & Dev,Free,38989337,1302090,22.6,27897.0,559,4.18,5,Mon,0
+2026-06-08 05:33:00,ME & Africa,Nigeria,API,Coding & Dev,Free,11052355,1800951,14.4,27594.0,3076,4.06,5,Mon,1
+2026-06-08 05:58:00,Europe,UK,Mobile,Coding & Dev,Free,50664164,1767011,17.1,29471.0,6152,4.87,5,Mon,0
+2026-06-08 06:41:00,North America,Mexico,API,Coding & Dev,Pro,70442242,1671234,18.4,31419.0,1684,4.38,6,Mon,0
+2026-06-08 07:25:00,Europe,Germany,Web,Education,Free,50887679,1600146,21.6,27428.0,3054,4.34,7,Mon,0
+2026-06-08 07:38:00,Asia Pacific,Australia,API,Coding & Dev,Free,40124844,1454215,19.3,32793.0,7182,4.17,7,Mon,1
+2026-06-08 08:12:00,North America,USA,Web,Education,Pro,69825992,1477931,14.9,32621.0,8152,4.55,8,Mon,0
+2026-06-08 08:06:00,Europe,UK,Web,Coding & Dev,Pro,51657746,1416559,16.2,28705.0,2471,4.13,8,Mon,1
+2026-06-08 08:52:00,North America,Mexico,Mobile,Coding & Dev,Free,73085131,1578408,16.5,29669.0,3300,4.59,8,Mon,0
+2026-06-08 09:27:00,Asia Pacific,South Korea,API,Data Analysis,Free,38909897,1577767,21.2,29651.0,6392,4.41,9,Mon,0
+2026-06-08 10:22:00,North America,Mexico,Mobile,Coding & Dev,Free,71209647,1681438,18.4,31533.0,5308,4.01,10,Mon,0
+2026-06-08 10:50:00,North America,USA,Web,Writing & Content,Free,71318179,1476326,15.5,31423.0,6785,4.83,10,Mon,0
+2026-06-08 10:45:00,North America,Mexico,API,Education,Pro,71886816,1390305,19.8,30192.0,4804,4.41,10,Mon,1
+2026-06-08 11:07:00,North America,Canada,API,Data Analysis,Free,71583373,1331452,14.2,27298.0,762,4.19,11,Mon,0
+2026-06-08 11:58:00,North America,Mexico,Mobile,Coding & Dev,Free,71032625,1439338,16.8,31797.0,6484,4.46,11,Mon,1
+2026-06-08 12:03:00,North America,USA,Web,Writing & Content,Pro,69702485,1826989,16.3,29289.0,606,4.12,12,Mon,1
+2026-06-08 12:45:00,North America,Canada,Mobile,Coding & Dev,Free,72215418,1564797,22.8,29837.0,5513,4.94,12,Mon,0
+2026-06-08 13:33:00,Asia Pacific,South Korea,Web,Writing & Content,Free,38941137,1236461,20.0,32840.0,4266,4.63,13,Mon,0
+2026-06-08 14:07:00,North America,Canada,Web,Education,Free,69107242,1748432,18.3,30577.0,6484,4.77,14,Mon,0
+2026-06-08 14:59:00,Europe,France,Desktop,Education,Free,50052305,1307742,18.8,27644.0,8392,4.23,14,Mon,0
+2026-06-08 15:21:00,Asia Pacific,Australia,Desktop,Data Analysis,Free,38981999,1707079,16.3,27237.0,7568,4.56,15,Mon,0
+2026-06-08 15:34:00,Europe,Germany,Web,Data Analysis,Free,51493790,1840131,19.0,27413.0,2939,4.45,15,Mon,1
+2026-06-08 15:30:00,Europe,Spain,Mobile,Writing & Content,Pro,51650055,1633814,17.3,30721.0,5654,4.72,15,Mon,0
+2026-06-08 16:12:00,Europe,Spain,API,Writing & Content,Pro,50832441,1425820,19.8,27663.0,8972,4.66,16,Mon,0
+2026-06-08 17:25:00,Latin America,Brazil,Web,Coding & Dev,Free,14539759,1649226,17.5,29939.0,4593,4.05,17,Mon,0
+2026-06-08 17:59:00,Asia Pacific,India,Desktop,Data Analysis,Team/Enterprise,40052441,1527641,19.8,29166.0,7214,4.82,17,Mon,1
+2026-06-08 17:47:00,North America,Mexico,API,Data Analysis,Team/Enterprise,69260485,1351130,18.7,27607.0,4184,4.53,17,Mon,0
+2026-06-08 18:36:00,Europe,Germany,API,Coding & Dev,Pro,50233060,1273859,19.7,29148.0,7915,4.7,18,Mon,0
+2026-06-08 19:05:00,North America,USA,Web,Coding & Dev,Free,73185121,1510108,17.2,28891.0,5719,4.84,19,Mon,0
+2026-06-08 19:38:00,Europe,France,Web,Writing & Content,Free,50642193,1721204,17.2,29714.0,6905,4.0,19,Mon,0
+2026-06-08 20:03:00,North America,USA,Web,Customer Support,Free,73125264,1350375,16.8,31629.0,4921,4.92,20,Mon,0
+2026-06-08 20:06:00,Europe,Germany,Web,Writing & Content,Free,50087340,1607508,16.1,31866.0,1905,4.57,20,Mon,0
+2026-06-08 21:16:00,North America,USA,Web,Writing & Content,Free,72761279,1691993,21.4,27572.0,5321,4.04,21,Mon,1
+2026-06-08 21:58:00,Europe,UK,Mobile,Writing & Content,Pro,50237110,1807481,21.8,28360.0,587,4.63,21,Mon,0
+2026-06-08 21:32:00,North America,Mexico,Web,Data Analysis,Free,71903206,1307238,20.1,32984.0,7700,4.75,21,Mon,0
+2026-06-08 22:18:00,North America,Canada,Mobile,Coding & Dev,Free,70957053,1721720,18.9,28575.0,6929,4.5,22,Mon,1
+2026-06-08 23:00:00,North America,USA,API,Writing & Content,Pro,69764288,1631197,20.6,28477.0,1573,4.27,23,Mon,0
+2026-06-08 23:05:00,Asia Pacific,South Korea,Web,Writing & Content,Free,38540731,1441167,19.9,31618.0,3173,4.99,23,Mon,0
+2026-06-09 00:09:00,ME & Africa,South Africa,Web,Coding & Dev,Pro,11017828,1461674,20.8,32117.0,2241,4.74,0,Tue,0
+2026-06-09 00:55:00,Europe,Germany,Mobile,Coding & Dev,Free,51411788,1413582,18.2,28991.0,3871,4.2,0,Tue,0
+2026-06-09 01:09:00,North America,Canada,Mobile,Coding & Dev,Pro,69006601,1608103,20.0,27261.0,3190,4.06,1,Tue,0
+2026-06-09 01:03:00,Asia Pacific,Australia,API,Customer Support,Free,39647870,1664087,22.2,29161.0,2167,4.02,1,Tue,1
+2026-06-09 01:54:00,Europe,Germany,API,Data Analysis,Team/Enterprise,50443535,1617974,14.8,28193.0,7903,4.56,1,Tue,1
+2026-06-09 02:19:00,North America,Mexico,Web,Writing & Content,Free,70406730,1446339,19.6,28417.0,8612,4.28,2,Tue,0
+2026-06-09 03:26:00,North America,Canada,Desktop,Other,Team/Enterprise,72974852,1357907,17.1,29357.0,2648,4.09,3,Tue,0
+2026-06-09 03:55:00,ME & Africa,Nigeria,API,Coding & Dev,Free,10986230,1879376,22.2,28976.0,2558,4.21,3,Tue,0
+2026-06-09 04:25:00,Europe,Germany,Web,Data Analysis,Team/Enterprise,51730729,1501045,22.2,31620.0,2989,4.32,4,Tue,0
+2026-06-09 04:11:00,ME & Africa,UAE,Web,Education,Pro,11398690,1816092,17.7,29468.0,7658,4.75,4,Tue,1
+2026-06-09 04:39:00,Europe,France,Mobile,Coding & Dev,Free,51285058,1628387,16.4,30402.0,4183,4.6,4,Tue,0
+2026-06-09 05:44:00,North America,USA,Mobile,Coding & Dev,Team/Enterprise,70926820,1654697,15.7,29325.0,8163,4.14,5,Tue,0
+2026-06-09 06:29:00,North America,USA,Web,Writing & Content,Pro,73141674,1730443,14.6,32563.0,7597,4.87,6,Tue,0
+2026-06-09 06:56:00,North America,Canada,Web,Writing & Content,Free,72063360,1466261,16.8,30669.0,1030,4.52,6,Tue,0
+2026-06-09 07:26:00,Asia Pacific,India,Desktop,Writing & Content,Free,39824107,1590390,18.6,30784.0,1207,4.19,7,Tue,0
+2026-06-09 07:29:00,Latin America,Argentina,Web,Coding & Dev,Team/Enterprise,15130501,1832572,18.2,30877.0,1881,4.72,7,Tue,0
+2026-06-09 07:38:00,Asia Pacific,South Korea,Web,Coding & Dev,Free,39160862,1827632,22.1,32295.0,1877,4.25,7,Tue,0
+2026-06-09 08:45:00,Latin America,Brazil,Mobile,Coding & Dev,Pro,15080343,1259714,20.4,31361.0,8783,4.61,8,Tue,0
+2026-06-09 09:19:00,Europe,UK,Web,Coding & Dev,Team/Enterprise,51588680,1313486,15.3,31615.0,1240,4.42,9,Tue,0
+2026-06-09 09:18:00,Asia Pacific,Singapore,API,Coding & Dev,Free,38569859,1635792,16.3,29752.0,8569,4.54,9,Tue,0
+2026-06-09 09:43:00,Latin America,Brazil,API,Writing & Content,Free,14582473,1620071,16.2,30284.0,3801,4.05,9,Tue,0
+2026-06-09 10:09:00,Asia Pacific,India,Mobile,Data Analysis,Team/Enterprise,38795087,1844269,14.4,29502.0,3320,4.16,10,Tue,0
+2026-06-09 11:06:00,Asia Pacific,South Korea,Mobile,Coding & Dev,Free,39456060,1852035,14.8,28796.0,6438,4.9,11,Tue,1
+2026-06-09 11:04:00,Asia Pacific,South Korea,Web,Coding & Dev,Pro,38738484,1568936,18.7,31175.0,1353,4.11,11,Tue,1
+2026-06-09 12:00:00,Europe,UK,Mobile,Data Analysis,Pro,51116497,1498937,21.6,28558.0,6197,4.93,12,Tue,0
+2026-06-09 12:31:00,Europe,Spain,Mobile,Customer Support,Free,49855304,1335488,15.1,29789.0,2332,4.74,12,Tue,0
+2026-06-09 12:56:00,Europe,Spain,Web,Writing & Content,Pro,49618556,1648432,20.2,28527.0,1511,4.31,12,Tue,0
+2026-06-09 13:07:00,North America,USA,API,Writing & Content,Pro,71554549,1220382,15.6,28983.0,5936,4.92,13,Tue,0
+2026-06-09 14:11:00,Europe,UK,Web,Coding & Dev,Free,51596410,1827150,18.2,31885.0,1317,4.84,14,Tue,0
+2026-06-09 14:35:00,Asia Pacific,Australia,API,Coding & Dev,Pro,39975765,1821620,17.2,32818.0,4995,4.84,14,Tue,0
+2026-06-09 15:23:00,North America,Mexico,Web,Data Analysis,Free,69426378,1747640,16.8,32147.0,918,4.27,15,Tue,0
+2026-06-09 15:28:00,Latin America,Argentina,Mobile,Coding & Dev,Pro,14668291,1461950,14.3,28213.0,1917,4.44,15,Tue,0
+2026-06-09 15:42:00,Europe,Germany,Web,Writing & Content,Team/Enterprise,49915500,1429136,20.9,27590.0,8856,4.68,15,Tue,0
+2026-06-09 16:24:00,Asia Pacific,Singapore,Mobile,Writing & Content,Free,40288673,1680936,19.3,27522.0,8049,4.89,16,Tue,0
+2026-06-09 16:31:00,Asia Pacific,Australia,API,Coding & Dev,Team/Enterprise,38847958,1334781,16.5,28915.0,7627,4.67,16,Tue,0
+2026-06-09 17:00:00,North America,USA,Desktop,Writing & Content,Free,71241325,1584555,16.4,32660.0,5041,4.57,17,Tue,0
+2026-06-09 18:04:00,North America,Canada,API,Coding & Dev,Free,71808244,1274148,14.5,29559.0,3332,4.7,18,Tue,0
+2026-06-09 18:39:00,Europe,Spain,Web,Coding & Dev,Free,51272804,1766509,14.7,32537.0,8029,4.57,18,Tue,0
+2026-06-09 18:36:00,Asia Pacific,Singapore,API,Data Analysis,Pro,39188467,1362185,16.0,32167.0,4627,4.91,18,Tue,0
+2026-06-09 19:50:00,Asia Pacific,Australia,Mobile,Coding & Dev,Free,38245913,1279020,18.3,32075.0,5024,4.77,19,Tue,0
+2026-06-09 19:55:00,North America,USA,Mobile,Education,Free,71697201,1754701,18.8,29405.0,7173,4.24,19,Tue,0
+2026-06-09 20:24:00,North America,Canada,Web,Coding & Dev,Pro,70766444,1886143,19.1,29053.0,4269,4.17,20,Tue,0
+2026-06-09 21:23:00,Asia Pacific,South Korea,API,Data Analysis,Free,39399797,1775416,15.6,32735.0,1540,4.6,21,Tue,0
+2026-06-09 21:20:00,Europe,Spain,API,Data Analysis,Free,51450421,1821083,22.1,30817.0,403,4.76,21,Tue,0
+2026-06-09 21:54:00,Europe,France,API,Writing & Content,Free,51633372,1409814,21.1,31077.0,7522,4.72,21,Tue,0
+2026-06-09 22:00:00,ME & Africa,Nigeria,API,Writing & Content,Team/Enterprise,11457306,1243687,22.1,32807.0,413,4.7,22,Tue,1
+2026-06-09 23:25:00,North America,Canada,Web,Writing & Content,Pro,71593863,1698241,17.7,29611.0,3860,4.66,23,Tue,0
+2026-06-09 23:53:00,North America,Canada,Desktop,Education,Free,73180953,1669046,15.2,27430.0,657,4.14,23,Tue,1
+2026-06-09 23:35:00,Asia Pacific,Japan,Web,Education,Team/Enterprise,40197359,1686773,22.4,30739.0,7844,4.51,23,Tue,0
+2026-06-10 00:14:00,Europe,France,Web,Data Analysis,Pro,51540607,1365724,18.5,29465.0,6412,4.03,0,Wed,0
+2026-06-10 00:37:00,Europe,France,API,Other,Free,51187323,1568485,21.7,31503.0,4978,4.46,0,Wed,0
+2026-06-10 01:15:00,Latin America,Brazil,API,Education,Team/Enterprise,14581286,1643581,21.2,28875.0,1264,4.9,1,Wed,0
+2026-06-10 02:02:00,North America,Canada,Desktop,Data Analysis,Free,70432886,1884432,16.7,28005.0,5381,4.73,2,Wed,0
+2026-06-10 02:37:00,North America,Canada,Web,Coding & Dev,Team/Enterprise,72377008,1637021,16.6,27495.0,8683,4.08,2,Wed,1
+2026-06-10 02:47:00,North America,Mexico,Web,Coding & Dev,Pro,71502653,1837092,20.7,30955.0,6458,4.81,2,Wed,0
+2026-06-10 03:11:00,Asia Pacific,Singapore,Mobile,Education,Free,38290766,1301549,22.4,27925.0,8525,4.75,3,Wed,0
+2026-06-10 04:16:00,Europe,Spain,API,Coding & Dev,Pro,50020672,1649582,20.8,27696.0,3145,4.46,4,Wed,0
+2026-06-10 04:24:00,Europe,Germany,API,Writing & Content,Free,50582221,1504314,16.6,31784.0,6658,4.68,4,Wed,0
+2026-06-10 04:36:00,Asia Pacific,India,Desktop,Data Analysis,Team/Enterprise,39109273,1842629,21.7,29010.0,4775,4.8,4,Wed,0
+2026-06-10 05:49:00,Europe,Spain,API,Coding & Dev,Pro,51309444,1563966,20.1,32959.0,5532,4.55,5,Wed,0
+2026-06-10 05:56:00,Asia Pacific,India,Web,Coding & Dev,Free,38608888,1398307,15.7,27142.0,1906,4.06,5,Wed,0
+2026-06-10 06:38:00,Latin America,Brazil,API,Data Analysis,Free,15279941,1290935,19.9,32399.0,3427,4.9,6,Wed,0
+2026-06-10 07:12:00,North America,Canada,Desktop,Data Analysis,Team/Enterprise,70106588,1498888,22.1,31619.0,5698,4.26,7,Wed,1
+2026-06-10 07:24:00,North America,USA,Web,Other,Free,72393657,1324550,14.6,32877.0,3687,4.61,7,Wed,0
+2026-06-10 08:04:00,Europe,Germany,Mobile,Coding & Dev,Pro,51739958,1700780,14.9,27438.0,4505,4.78,8,Wed,0
+2026-06-10 08:59:00,Europe,UK,Web,Writing & Content,Free,49974489,1473931,14.0,31246.0,8439,4.48,8,Wed,0
+2026-06-10 09:04:00,Asia Pacific,India,Web,Writing & Content,Pro,39929335,1284842,18.8,32950.0,5863,4.68,9,Wed,0
+2026-06-10 09:23:00,Europe,UK,API,Other,Free,50367731,1736555,19.8,28060.0,1044,4.97,9,Wed,0
+2026-06-10 10:27:00,North America,Canada,Web,Data Analysis,Free,72702399,1506588,15.7,27214.0,815,4.72,10,Wed,0
+2026-06-10 10:50:00,Europe,UK,API,Coding & Dev,Pro,51502577,1514515,23.0,27222.0,1318,4.34,10,Wed,1
+2026-06-10 11:21:00,Europe,Germany,API,Writing & Content,Team/Enterprise,51611483,1575592,20.7,28398.0,1580,4.04,11,Wed,0
+2026-06-10 11:58:00,Asia Pacific,Singapore,Desktop,Coding & Dev,Pro,38399473,1320574,14.4,28844.0,1994,4.46,11,Wed,0
+2026-06-10 11:37:00,Europe,UK,API,Education,Free,51412311,1498348,21.3,32893.0,6986,4.32,11,Wed,0
+2026-06-10 12:20:00,Europe,Germany,Mobile,Education,Pro,50771992,1434852,15.1,27847.0,7201,4.17,12,Wed,0
+2026-06-10 13:29:00,North America,USA,API,Coding & Dev,Pro,71623624,1463291,15.4,32278.0,1722,4.01,13,Wed,0
+2026-06-10 13:37:00,North America,Mexico,Mobile,Writing & Content,Pro,72222098,1684650,15.9,30839.0,8970,4.45,13,Wed,0
+2026-06-10 13:32:00,North America,Mexico,API,Data Analysis,Pro,69303487,1778538,16.7,29513.0,4260,4.19,13,Wed,0
+2026-06-10 14:23:00,ME & Africa,Nigeria,Mobile,Other,Free,11195910,1638524,15.9,27318.0,2246,4.8,14,Wed,0
+2026-06-10 15:01:00,ME & Africa,South Africa,Web,Data Analysis,Free,11317520,1399545,17.9,29006.0,7824,4.04,15,Wed,1
+2026-06-10 15:10:00,Latin America,Brazil,Mobile,Writing & Content,Free,15314623,1704982,19.3,28956.0,3656,4.75,15,Wed,0
+2026-06-10 15:50:00,North America,USA,Web,Coding & Dev,Free,69780731,1823955,14.7,30511.0,1290,4.89,15,Wed,0
+2026-06-10 16:11:00,Latin America,Argentina,Web,Coding & Dev,Pro,15078502,1882889,15.8,27763.0,1377,4.28,16,Wed,0
+2026-06-10 16:40:00,Europe,Spain,Mobile,Coding & Dev,Free,49450273,1756195,22.6,32433.0,4163,4.09,16,Wed,1
+2026-06-10 17:37:00,Europe,Germany,API,Writing & Content,Free,50272217,1810818,16.2,29605.0,4043,4.89,17,Wed,0
+2026-06-10 18:27:00,North America,Mexico,Web,Other,Free,70934874,1738024,14.3,30187.0,8252,4.81,18,Wed,0
+2026-06-10 18:15:00,North America,Canada,Web,Education,Pro,70661856,1352604,17.2,28434.0,1886,4.02,18,Wed,0
+2026-06-10 19:24:00,North America,Canada,API,Data Analysis,Team/Enterprise,70905489,1297036,20.3,28110.0,6468,4.63,19,Wed,1
+2026-06-10 19:04:00,North America,Mexico,Web,Data Analysis,Pro,70192741,1727021,20.3,30675.0,3793,4.79,19,Wed,0
+2026-06-10 20:29:00,Latin America,Colombia,Web,Customer Support,Pro,15308248,1277676,17.3,30715.0,6389,4.37,20,Wed,0
+2026-06-10 20:45:00,Asia Pacific,South Korea,Mobile,Coding & Dev,Free,39363385,1654326,20.6,31514.0,3837,4.75,20,Wed,1
+2026-06-10 21:02:00,North America,Canada,API,Coding & Dev,Free,70400108,1540358,18.7,27736.0,5188,4.45,21,Wed,0
+2026-06-10 21:12:00,Asia Pacific,India,Desktop,Writing & Content,Free,40207640,1401860,22.6,27656.0,4921,4.11,21,Wed,0
+2026-06-10 22:03:00,North America,USA,Desktop,Coding & Dev,Free,71837695,1852205,18.3,29521.0,751,4.29,22,Wed,0
+2026-06-10 22:53:00,Latin America,Brazil,Desktop,Data Analysis,Free,14818890,1652235,16.9,30560.0,7695,4.46,22,Wed,0
+2026-06-10 22:40:00,Latin America,Argentina,Mobile,Coding & Dev,Free,14769840,1791859,15.3,28706.0,3125,4.62,22,Wed,0
+2026-06-10 23:11:00,Europe,Germany,Mobile,Data Analysis,Pro,49440266,1366533,14.4,28900.0,2472,4.44,23,Wed,0
+2026-06-10 23:32:00,North America,Mexico,API,Other,Free,70840122,1882825,18.8,27729.0,808,4.4,23,Wed,0
+2026-06-11 00:59:00,North America,Canada,Web,Coding & Dev,Pro,73087772,1431896,20.3,29843.0,5148,4.97,0,Thu,1
+2026-06-11 00:39:00,ME & Africa,Nigeria,Mobile,Data Analysis,Team/Enterprise,11111402,1278620,18.3,27240.0,2314,4.31,0,Thu,0
+2026-06-11 01:22:00,Asia Pacific,Singapore,Web,Coding & Dev,Pro,39466581,1355500,22.4,28668.0,769,4.08,1,Thu,1
+2026-06-11 02:02:00,Asia Pacific,India,Web,Writing & Content,Pro,39297227,1239233,20.0,29385.0,7406,4.37,2,Thu,0
+2026-06-11 02:19:00,North America,Canada,Desktop,Education,Free,72031475,1510954,22.9,31822.0,5128,4.16,2,Thu,1
+2026-06-11 03:27:00,Latin America,Colombia,API,Education,Pro,14640130,1412261,22.9,30152.0,5895,4.07,3,Thu,0
+2026-06-11 03:00:00,Asia Pacific,India,Web,Customer Support,Free,39401508,1697172,20.8,27822.0,3447,4.83,3,Thu,0
+2026-06-11 04:23:00,Europe,France,API,Writing & Content,Pro,49655461,1753853,15.4,28801.0,8142,4.12,4,Thu,0
+2026-06-11 04:31:00,North America,USA,Desktop,Data Analysis,Free,72188653,1545135,22.7,30593.0,6327,4.58,4,Thu,0
+2026-06-11 05:13:00,Latin America,Colombia,API,Data Analysis,Free,14971243,1602684,21.6,27977.0,1358,4.15,5,Thu,0
+2026-06-11 05:10:00,Asia Pacific,Australia,Web,Writing & Content,Pro,40342439,1234100,16.6,30834.0,1658,4.51,5,Thu,1
+2026-06-11 06:08:00,North America,USA,Mobile,Writing & Content,Team/Enterprise,72453438,1679477,16.7,31113.0,6339,4.1,6,Thu,0
+2026-06-11 06:08:00,Asia Pacific,India,API,Writing & Content,Free,38893745,1837551,14.9,27927.0,4022,4.83,6,Thu,1
+2026-06-11 06:56:00,Europe,UK,API,Coding & Dev,Pro,51772677,1535662,16.8,29175.0,7640,4.89,6,Thu,0
+2026-06-11 07:11:00,Asia Pacific,Australia,Mobile,Coding & Dev,Pro,38615819,1799770,15.3,28359.0,2453,4.21,7,Thu,0
+2026-06-11 07:34:00,Europe,UK,Web,Writing & Content,Free,49570125,1222954,19.9,30559.0,8085,4.12,7,Thu,0
+2026-06-11 08:00:00,North America,Mexico,Mobile,Education,Team/Enterprise,69803948,1830822,15.7,29109.0,1887,4.15,8,Thu,1
+2026-06-11 08:52:00,North America,Mexico,Web,Education,Pro,71541601,1553436,14.6,31918.0,629,4.53,8,Thu,1
+2026-06-11 09:57:00,ME & Africa,UAE,Mobile,Coding & Dev,Pro,11505593,1844334,21.7,29848.0,3433,4.44,9,Thu,0
+2026-06-11 09:54:00,North America,Canada,API,Writing & Content,Free,72174545,1419996,18.2,30118.0,8523,4.76,9,Thu,1

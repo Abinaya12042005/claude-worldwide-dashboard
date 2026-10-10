@@ -1,0 +1,16 @@
+*.exe
+*.pdf
+*.docx
+*.zip
+*.jpeg
+*.jpg
+*.png
+*.mp4
+*.tmp
+*.pbix
+*.pptx
+*.pka
+*.pksz
+__pycache__/
+.streamlit/
+~$*

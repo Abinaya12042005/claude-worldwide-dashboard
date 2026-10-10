@@ -1,0 +1,84 @@
+{
+  "name": "Claude Worldwide - Dark Pro",
+  "dataColors": [
+    "#378ADD",
+    "#7F77DD", 
+    "#1D9E75",
+    "#EF9F27",
+    "#D85A30",
+    "#D4537E",
+    "#B4B2A9",
+    "#534AB7"
+  ],
+  "background": "#1a1a2e",
+  "foreground": "#f0f0f0",
+  "tableAccent": "#378ADD",
+  "maximum": "#1D9E75",
+  "center": "#EF9F27",
+  "minimum": "#D85A30",
+  "null": "#888780",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "border": [{"color": {"solid": {"color": "#3a3a5c"}}}],
+        "fontColor": [{"solid": {"color": "#f0f0f0"}}],
+        "fontSize": [{"fontSize": 11}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{"fontSize": 24, "fontColor": {"solid": {"color": "#378ADD"}}}],
+        "label": [{"color": {"solid": {"color": "#aaaacc"}}, "fontSize": 11}],
+        "background": [{"color": {"solid": {"color": "#252545"}}}]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "legend": [{"color": {"solid": {"color": "#ccccee"}}, "fontSize": 10}],
+        "dataLabels": [{"color": {"solid": {"color": "#ffffff"}}, "fontSize": 10}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#aaaacc"}}, "fontSize": 10}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#aaaacc"}}, "fontSize": 10}],
+        "dataLabels": [{"color": {"solid": {"color": "#ffffff"}}, "fontSize": 10}]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#aaaacc"}}, "fontSize": 10}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#aaaacc"}}, "fontSize": 10}],
+        "plotArea": [{"transparency": 100}]
+      }
+    },
+    "treemap": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "dataLabels": [{"color": {"solid": {"color": "#ffffff"}}, "fontSize": 11}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1e1e38"}}}],
+        "border": [{"color": {"solid": {"color": "#3a3a5c"}}}],
+        "fontColor": [{"solid": {"color": "#ccccee"}}],
+        "fontSize": [{"fontSize": 11}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#252545"}}}],
+        "fontColor": [{"solid": {"color": "#f0f0f0"}}],
+        "gridColor": [{"solid": {"color": "#3a3a5c"}}],
+        "totalsBackground": [{"solid": {"color": "#1a1a2e"}}],
+        "headerFontColor": [{"solid": {"color": "#378ADD"}}],
+        "fontSize": [{"fontSize": 11}]
+      }
+    }
+  }
+}
