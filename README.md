@@ -42,7 +42,13 @@ Run the Streamlit dashboard:
 ```bash
 streamlit run claude_streamlit_dashboard.py
 ```
-
+## 📐 DAX Measures Used
+- Total Active Users
+- Avg Messages Per Min  
+- Estimated Monthly Revenue
+- Pro Plan Users / Enterprise Users
+- Avg Satisfaction Score
+- 
 ## 📊 Key Metrics
 
 * Total Active Users
